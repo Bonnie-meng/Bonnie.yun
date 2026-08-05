@@ -1,8 +1,8 @@
 {
-  "installCommand": "",
-  "buildCommand": "",
+  "installCommand": "npm ci",
+  "buildCommand": "npm run build",
   "assets": {
-    "directory": "./",
+    "directory": "out",
     "notFoundStrategy": "singlePageApplication"
   }
 }

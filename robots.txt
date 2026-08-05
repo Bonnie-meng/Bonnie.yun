@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://bonnie.yun/sitemap.xml
